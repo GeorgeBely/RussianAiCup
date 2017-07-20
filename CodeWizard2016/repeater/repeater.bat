@@ -1,0 +1,1 @@
+start java -Xms128M -Xmx1G -cp ".;*;%~dp0/*" -jar repeater.jar 32433234d0f919957233ed85c1b9b1d1c3c7b313
